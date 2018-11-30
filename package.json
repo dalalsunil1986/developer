@@ -12,9 +12,8 @@
   "engines": {
     "node": ">=8.12.0"
   },
-  "dependencies": {},
-  "peerDependencies": {
-    "hapi": ">=17.0.0"
+  "dependencies": {
+    "boom": "7.3.0"
   },
   "devDependencies": {
     "code": "5.x.x",
