@@ -1,2 +1,3 @@
-# developer
+# @hapi/developer
+
 Development helpers plugin
